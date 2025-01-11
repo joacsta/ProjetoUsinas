@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1687712451 source:c:\users\jvcos\onedrive\¡rea de trabalho\trabalhofinal\231012254\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"231012254.h"
+
+1687641810 c:\users\jvcos\onedrive\¡rea de trabalho\trabalhofinal\231012254\biblioteca.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1688153207 c:\users\jvcos\onedrive\¡rea de trabalho\trabalhofinal\231012254\231012254.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1688153056 source:c:\users\jvcos\onedrive\¡rea de trabalho\trabalhofinal\231012254\231012254.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"231012254.h"
+
+1688228815 source:c:\users\jvcos\onedrive\¡rea de trabalho\trabalho_apc\231012254\231012254.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"231012254.h"
+
+1688229102 c:\users\jvcos\onedrive\¡rea de trabalho\trabalho_apc\231012254\231012254.h
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1688833130 source:c:\users\jvcos\desktop\trabalho_apc\231012254\231012254.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"231012254.h"
+
+1689372158 c:\users\jvcos\desktop\trabalho_apc\231012254\231012254.h
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1688833130 source:c:\users\jvcos\desktop\joao.costa\unb\mat…rias\trabalho_apc\231012254\231012254.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"231012254.h"
+
+1690916610 c:\users\jvcos\desktop\joao.costa\unb\mat…rias\trabalho_apc\231012254\231012254.h
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1692493837 source:c:\users\jvcos\desktop\joao.costa\estudo\unb\mat…rias\concluidos\algoritmo e programa«√o de computadores\trabalho_apc\231012254\231012254.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"231012254.h"
+
+1692493922 c:\users\jvcos\desktop\joao.costa\estudo\unb\mat…rias\concluidos\algoritmo e programa«√o de computadores\trabalho_apc\231012254\231012254.h
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1711305596 source:c:\users\jvcos\desktop\apc\trabalho_final_usina_ok\231012254\231012254.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	"231012254.h"
+
+1711305659 c:\users\jvcos\desktop\apc\trabalho_final_usina_ok\231012254\231012254.h
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
