@@ -25,7 +25,7 @@ int main()
     do
     {
         menu_principal(); // void
-        printf("\nPor favor, selecione uma das opçoes: ");
+        printf("\nPor favor, selecione uma das opções: ");
         fflush(stdin);
         scanf("%d", &respt);
 
@@ -40,7 +40,7 @@ int main()
             break;
 
         case 2:
-            printf("\nOPÇAO 2, 'Consultar consumidor cadastrado' selecionada.\nAntes de realizar a operaçao, informe qual o tipo de cadastro sera digitado.\nSelecione '1', para a OPERAÇAO COM CNPJ.\nOu selecione '2', para a OPERAÇAO COM CPF.\nCNPJ |1| ou CPF |2|: ");
+            printf("\nOPÇÃO 2, 'Consultar consumidor cadastrado' selecionada.\nAntes de realizar a operaçao, informe qual o tipo de cadastro sera digitado.\nSelecione '1', para a OPERAÇAO COM CNPJ.\nOu selecione '2', para a OPERAÇAO COM CPF.\nCNPJ |1| ou CPF |2|: ");
             scanf("%d", &subrespt);
 
             if (subrespt == 1)
@@ -55,7 +55,7 @@ int main()
             }
             else
             {
-                printf("\nOPÇAO INVALIDA.\n");
+                printf("\nOPÇAO INVÁLIDA.\n");
             }
             break;
 
@@ -88,7 +88,7 @@ int main()
             break;
 
         default:
-            printf("\nOpçao invalida. Tente novamente.\n"); // caso o usuario digite um numero maior que 9 ou outro caractere
+            printf("\nOpção inválida. Tente novamente.\n"); // caso o usuario digite um numero maior que 9 ou outro caractere
             getchar();
         }
     } while (respt != 9);
