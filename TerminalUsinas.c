@@ -55,7 +55,7 @@ int main()
             }
             else
             {
-                printf("\nOPÇAO INVÁLIDA.\n");
+                printf("\nOPÇAO INvÁLIDA.\n");
             }
             break;
 
